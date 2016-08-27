@@ -2,7 +2,7 @@
 a circle progress bar with effect
 #Preview
 ![png](https://github.com/ldoublem/RingProgress/blob/master/shot/shot1.jpeg)
-
+[pokefortress](http://www.pokefortress.com/)
 ![gif](https://github.com/ldoublem/RingProgress/blob/master/shot/shot2.gif)
 ![gif](https://github.com/ldoublem/RingProgress/blob/master/shot/shot3.gif)
 ##Usage  xml
@@ -44,7 +44,7 @@ a circle progress bar with effect
 ## About me
 
 An android developer in Hangzhou.
-
+[pokefortress](http://www.pokefortress.com/)
 If you want to make friends with me, You can email to me.
 my [email](mailto:1227102260@qq.com) :smiley:
 
@@ -73,4 +73,4 @@ License
 	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 	SOFTWARE.
-
+[pokefortress](http://www.pokefortress.com/)
